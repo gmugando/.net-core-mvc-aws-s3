@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6oLAZHirKcXJ5BLIsm4oAgJDQHnHeGQ49A+JWXrby7/NUmWbLdWDiUNR1qRWYZT6r45l0A6D85kvn11xvK17w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Grant\\Downloads\\AWSS3Connect\\AWSS3Connect\\AWSS3Connect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grant\\.nuget\\packages\\awssdk.core\\3.5.3.3\\awssdk.core.3.5.3.3.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.3.101\\awssdk.extensions.netcore.setup.3.3.101.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\awssdk.s3\\3.5.9.1\\awssdk.s3.3.5.9.1.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

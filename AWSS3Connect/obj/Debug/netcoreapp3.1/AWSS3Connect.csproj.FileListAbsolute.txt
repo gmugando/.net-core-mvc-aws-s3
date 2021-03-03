@@ -1,0 +1,86 @@
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.exe
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.deps.json
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.runtimeconfig.json
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.runtimeconfig.dev.json
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.dll
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.pdb
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.Views.dll
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.Views.pdb
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.csprojAssemblyReference.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.AssemblyInfoInputs.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.AssemblyInfo.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorAssemblyInfo.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorAssemblyInfo.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.TagHelpers.input.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.TagHelpers.output.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorCoreGenerate.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorTargetAssemblyInfo.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorTargetAssemblyInfo.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.Views.pdb
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\staticwebassets\AWSS3Connect.StaticWebAssets.Manifest.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\staticwebassets\AWSS3Connect.StaticWebAssets.xml
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.dll
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.pdb
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.genruntimeconfig.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.csproj.CopyComplete
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.csproj.CoreCompileInputs.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming and Developing\Web Development\Fiver-Clients\grantm05\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.exe
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.deps.json
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.runtimeconfig.json
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.runtimeconfig.dev.json
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.dll
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.pdb
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.Views.dll
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSS3Connect.Views.pdb
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.csprojAssemblyReference.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.AssemblyInfoInputs.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.AssemblyInfo.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.csproj.CoreCompileInputs.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorAssemblyInfo.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorAssemblyInfo.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.TagHelpers.input.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.TagHelpers.output.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorCoreGenerate.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorTargetAssemblyInfo.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.RazorTargetAssemblyInfo.cs
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.Views.pdb
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.csproj.CopyComplete
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\staticwebassets\AWSS3Connect.StaticWebAssets.Manifest.cache
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\staticwebassets\AWSS3Connect.StaticWebAssets.xml
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.dll
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.pdb
+C:\Users\Grant\Downloads\AWSS3Connect\AWSS3Connect\obj\Debug\netcoreapp3.1\AWSS3Connect.genruntimeconfig.cache
